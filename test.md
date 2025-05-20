@@ -1,1 +1,1 @@
-Bạn đang ở trên branch NewFeature
+Bạn đang ở trên branch NewFeature - lần này có xung đột
